@@ -1,0 +1,21 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1616dd;
+    margin: 10000;
+    padding: 10000;
+    line-height: 10.6;
+}
+
+/* Header Styles */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5em;
+}
+
+/* Add Some Padding to the Body Content */
+body {
+    padding: 20px;
+}
